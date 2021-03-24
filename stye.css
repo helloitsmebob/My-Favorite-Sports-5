@@ -1,0 +1,46 @@
+body{
+  background-color:black;
+  text-align:center;
+  color:white;
+}
+p{
+  font-size:20px;
+}
+h1{
+  font-size:30px;
+}
+h2{
+  font-size:25px;
+}
+#allsports{
+  border-style:solid;
+border-color:black
+border:10px
+border-radius:80px;
+padding:5px;
+width:250px;
+}
+#tennis{
+  border-style:solid;
+border-color:black
+border:10px
+border-radius:80px;
+padding:5px;
+width:250px;
+}
+#basketball{
+  border-style:solid;
+border-color:black
+border:10px
+border-radius:80px;
+padding:5px;
+width:250px;
+}
+#kickball{
+  border-style:solid;
+border-color:black
+border:10px
+border-radius:80px;
+padding:5px;
+width:250px;
+}
